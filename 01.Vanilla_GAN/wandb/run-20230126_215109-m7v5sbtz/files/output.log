@@ -1,0 +1,6 @@
+
+Epochs : 0 / 50
+Traceback (most recent call last):
+  File "01.Vanilla_GAN.py", line 100, in <module>
+    lossD = (lossD_real, lossD_fake) /2
+TypeError: unsupported operand type(s) for /: 'tuple' and 'int'

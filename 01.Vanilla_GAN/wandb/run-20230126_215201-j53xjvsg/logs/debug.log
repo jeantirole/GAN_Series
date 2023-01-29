@@ -1,0 +1,25 @@
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_setup.py:_flush():68] Configure stats pid to 1009448
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_setup.py:_flush():68] Loading settings from /home/eric/.config/wandb/settings
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_setup.py:_flush():68] Loading settings from /home/eric/1.Source/02.GAN_Series/01.Vanilla_GAN/wandb/settings
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': '01.Vanilla_GAN.py', 'program': '01.Vanilla_GAN.py'}
+2023-01-26 21:52:01,004 INFO    MainThread:1009448 [wandb_init.py:_log_setup():478] Logging user logs to /home/eric/1.Source/02.GAN_Series/01.Vanilla_GAN/wandb/run-20230126_215201-j53xjvsg/logs/debug.log
+2023-01-26 21:52:01,005 INFO    MainThread:1009448 [wandb_init.py:_log_setup():479] Logging internal logs to /home/eric/1.Source/02.GAN_Series/01.Vanilla_GAN/wandb/run-20230126_215201-j53xjvsg/logs/debug-internal.log
+2023-01-26 21:52:01,005 INFO    MainThread:1009448 [wandb_init.py:init():518] calling init triggers
+2023-01-26 21:52:01,005 INFO    MainThread:1009448 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2023-01-26 21:52:01,005 INFO    MainThread:1009448 [wandb_init.py:init():571] starting backend
+2023-01-26 21:52:01,005 INFO    MainThread:1009448 [wandb_init.py:init():575] setting up manager
+2023-01-26 21:52:01,010 INFO    MainThread:1009448 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-01-26 21:52:01,014 INFO    MainThread:1009448 [wandb_init.py:init():582] backend started and connected
+2023-01-26 21:52:01,018 INFO    MainThread:1009448 [wandb_init.py:init():670] updated telemetry
+2023-01-26 21:52:01,019 INFO    MainThread:1009448 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2023-01-26 21:52:01,558 INFO    MainThread:1009448 [wandb_run.py:_on_init():2121] communicating current version
+2023-01-26 21:52:01,621 INFO    MainThread:1009448 [wandb_run.py:_on_init():2125] got version response 
+2023-01-26 21:52:01,621 INFO    MainThread:1009448 [wandb_init.py:init():758] starting run threads in backend
+2023-01-26 21:52:03,055 INFO    MainThread:1009448 [wandb_run.py:_console_start():2101] atexit reg
+2023-01-26 21:52:03,056 INFO    MainThread:1009448 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2023-01-26 21:52:03,056 INFO    MainThread:1009448 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2023-01-26 21:52:03,056 INFO    MainThread:1009448 [wandb_run.py:_redirect():2046] Redirects installed.
+2023-01-26 21:52:03,058 INFO    MainThread:1009448 [wandb_init.py:init():798] run started, returning control to user process
+2023-01-26 22:08:40,271 WARNING MsgRouterThr:1009448 [router.py:message_loop():77] message_loop has been closed

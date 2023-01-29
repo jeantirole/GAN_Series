@@ -1,0 +1,100 @@
+Epochs : 0 / 50
+Epoch [0 / 50 Batch [0 / 1875]                     Loss D : 0.6421, Loss G : 0.7439
+Epochs : 1 / 50
+Epoch [1 / 50 Batch [0 / 1875]                     Loss D : 0.7817, Loss G : 0.8329
+Epochs : 2 / 50
+Epoch [2 / 50 Batch [0 / 1875]                     Loss D : 0.6131, Loss G : 0.8023
+Epochs : 3 / 50
+Epoch [3 / 50 Batch [0 / 1875]                     Loss D : 0.7744, Loss G : 0.9157
+Epochs : 4 / 50
+Epoch [4 / 50 Batch [0 / 1875]                     Loss D : 0.2735, Loss G : 1.6975
+Epochs : 5 / 50
+Epoch [5 / 50 Batch [0 / 1875]                     Loss D : 0.8069, Loss G : 0.7160
+Epochs : 6 / 50
+Epoch [6 / 50 Batch [0 / 1875]                     Loss D : 0.4283, Loss G : 1.4083
+Epochs : 7 / 50
+Epoch [7 / 50 Batch [0 / 1875]                     Loss D : 0.6169, Loss G : 1.2442
+Epochs : 8 / 50
+Epoch [8 / 50 Batch [0 / 1875]                     Loss D : 0.6226, Loss G : 1.1816
+Epochs : 9 / 50
+Epoch [9 / 50 Batch [0 / 1875]                     Loss D : 0.7998, Loss G : 0.7173
+Epochs : 10 / 50
+Epoch [10 / 50 Batch [0 / 1875]                     Loss D : 0.5677, Loss G : 1.1361
+Epochs : 11 / 50
+Epoch [11 / 50 Batch [0 / 1875]                     Loss D : 0.7195, Loss G : 1.1616
+Epochs : 12 / 50
+Epoch [12 / 50 Batch [0 / 1875]                     Loss D : 0.4969, Loss G : 1.2812
+Epochs : 13 / 50
+Epoch [13 / 50 Batch [0 / 1875]                     Loss D : 0.7001, Loss G : 0.9211
+Epochs : 14 / 50
+Epoch [14 / 50 Batch [0 / 1875]                     Loss D : 0.6471, Loss G : 0.9211
+Epochs : 15 / 50
+Epoch [15 / 50 Batch [0 / 1875]                     Loss D : 0.6627, Loss G : 1.2098
+Epochs : 16 / 50
+Epoch [16 / 50 Batch [0 / 1875]                     Loss D : 0.6205, Loss G : 1.1648
+Epochs : 17 / 50
+Epoch [17 / 50 Batch [0 / 1875]                     Loss D : 0.8762, Loss G : 1.0493
+Epochs : 18 / 50
+Epoch [18 / 50 Batch [0 / 1875]                     Loss D : 0.5578, Loss G : 1.1690
+Epochs : 19 / 50
+Epoch [19 / 50 Batch [0 / 1875]                     Loss D : 0.6708, Loss G : 1.2790
+Epochs : 20 / 50
+Epoch [20 / 50 Batch [0 / 1875]                     Loss D : 0.6014, Loss G : 1.1142
+Epochs : 21 / 50
+Epoch [21 / 50 Batch [0 / 1875]                     Loss D : 0.5075, Loss G : 1.6417
+Epochs : 22 / 50
+Epoch [22 / 50 Batch [0 / 1875]                     Loss D : 0.5728, Loss G : 1.2633
+Epochs : 23 / 50
+Epoch [23 / 50 Batch [0 / 1875]                     Loss D : 0.4415, Loss G : 1.5182
+Epochs : 24 / 50
+Epoch [24 / 50 Batch [0 / 1875]                     Loss D : 0.6535, Loss G : 1.1347
+Epochs : 25 / 50
+Epoch [25 / 50 Batch [0 / 1875]                     Loss D : 0.5979, Loss G : 2.0671
+Epochs : 26 / 50
+Epoch [26 / 50 Batch [0 / 1875]                     Loss D : 0.4102, Loss G : 1.7608
+Epochs : 27 / 50
+Epoch [27 / 50 Batch [0 / 1875]                     Loss D : 0.5473, Loss G : 1.5669
+Epochs : 28 / 50
+Epoch [28 / 50 Batch [0 / 1875]                     Loss D : 0.4860, Loss G : 1.2123
+Epochs : 29 / 50
+Epoch [29 / 50 Batch [0 / 1875]                     Loss D : 0.4808, Loss G : 1.8865
+Epochs : 30 / 50
+Epoch [30 / 50 Batch [0 / 1875]                     Loss D : 0.5660, Loss G : 1.2684
+Epochs : 31 / 50
+Epoch [31 / 50 Batch [0 / 1875]                     Loss D : 0.4994, Loss G : 1.5443
+Epochs : 32 / 50
+Epoch [32 / 50 Batch [0 / 1875]                     Loss D : 0.6814, Loss G : 1.1092
+Epochs : 33 / 50
+Epoch [33 / 50 Batch [0 / 1875]                     Loss D : 0.4882, Loss G : 1.2443
+Epochs : 34 / 50
+Epoch [34 / 50 Batch [0 / 1875]                     Loss D : 0.6399, Loss G : 1.2396
+Epochs : 35 / 50
+Epoch [35 / 50 Batch [0 / 1875]                     Loss D : 0.7066, Loss G : 0.8623
+Epochs : 36 / 50
+Epoch [36 / 50 Batch [0 / 1875]                     Loss D : 0.5288, Loss G : 1.6681
+Epochs : 37 / 50
+Epoch [37 / 50 Batch [0 / 1875]                     Loss D : 0.5524, Loss G : 1.4034
+Epochs : 38 / 50
+Epoch [38 / 50 Batch [0 / 1875]                     Loss D : 0.6197, Loss G : 1.1556
+Epochs : 39 / 50
+Epoch [39 / 50 Batch [0 / 1875]                     Loss D : 0.5791, Loss G : 1.0934
+Epochs : 40 / 50
+Epoch [40 / 50 Batch [0 / 1875]                     Loss D : 0.5964, Loss G : 1.0867
+Epochs : 41 / 50
+Epoch [41 / 50 Batch [0 / 1875]                     Loss D : 0.5437, Loss G : 1.2668
+Epochs : 42 / 50
+Epoch [42 / 50 Batch [0 / 1875]                     Loss D : 0.8647, Loss G : 0.6522
+Epochs : 43 / 50
+Epoch [43 / 50 Batch [0 / 1875]                     Loss D : 0.5757, Loss G : 1.2758
+Epochs : 44 / 50
+Epoch [44 / 50 Batch [0 / 1875]                     Loss D : 0.5270, Loss G : 1.3144
+Epochs : 45 / 50
+Epoch [45 / 50 Batch [0 / 1875]                     Loss D : 0.5759, Loss G : 1.0965
+Epochs : 46 / 50
+Epoch [46 / 50 Batch [0 / 1875]                     Loss D : 0.5803, Loss G : 1.3351
+Epochs : 47 / 50
+Epoch [47 / 50 Batch [0 / 1875]                     Loss D : 0.7175, Loss G : 0.7653
+Epochs : 48 / 50
+Epoch [48 / 50 Batch [0 / 1875]                     Loss D : 0.5567, Loss G : 1.2351
+Epochs : 49 / 50
+Epoch [49 / 50 Batch [0 / 1875]                     Loss D : 0.4571, Loss G : 1.3855

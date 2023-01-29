@@ -1,0 +1,6 @@
+
+Epochs : 0 / 50
+Traceback (most recent call last):
+  File "01.Vanilla_GAN.py", line 95, in <module>
+    lossD_real = criterion(disc_real, torch.ones_line(disc_real)) # BCEloss(predict, label)
+AttributeError: module 'torch' has no attribute 'ones_line'
